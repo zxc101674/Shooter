@@ -1,0 +1,6 @@
+InputSystem
+
+https://github.com/Leopotam/ecs.git
+https://github.com/Leopotam/ecs-unityintegration.git
+https://github.com/voody2506/UniLeo.git
+https://github.com/supremestranger/leoecs-physics.git

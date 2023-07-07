@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1339ce37e66b22b4184fd040780459e4, type: 3}
+  m_Name: Dialog 2
+  m_EditorClassIdentifier: 
+  isStopGame: 0
+  list:
+  - sprite: {fileID: -2057083304, guid: 1dc99f1e2026b2149a80c3d00faf21c2, type: 3}
+    text: "\u0410 \u044D\u0442\u043E \u0447\u0451 \u0437\u0430 \u0445\u0435\u0440\u044C???"
